@@ -8,4 +8,4 @@ I am currently advised by Prof. Fengmao Lv at Tiggers Lab and have had the pleas
 
 You can find my CV here: [Li Yang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.swjtu.edu.cn) / [Github](https://github.com/yourgithub) / [Wechat](../images/wechat.jpg) 
+[Email](el21ly@leeds.ac.uk) / [Github](https://github.com/tbyl) / [Wechat](../images/wechat.jpg) 
