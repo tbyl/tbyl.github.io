@@ -12,6 +12,6 @@ I'm a graduate student from the Leeds Joint School, Southwest Jiaotong Universit
 
 I am currently advised by Prof. Fengmao Lv at Tiggers Lab and have had the pleasure of working on several cutting-edge projects involving model generalization and multimodal tasks.
 
-You can find my CV here: [Li Yang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Li Yang's Curriculum Vitae](../assets/LiYang-CV.pdf).
 
 [Email](el21ly@leeds.ac.uk) / [Github](https://github.com/tbyl) / [Wechat](../images/wechat.jpg) 
