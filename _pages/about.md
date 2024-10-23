@@ -2,6 +2,6 @@ I'm a graduate student from the School of Computer Science, Southwest Jiaotong U
 
 I am currently advised by Prof. Fengmao Lv at Tiggers Lab and have had the pleasure of working on several cutting-edge projects involving model generalization and multimodal tasks. 
 
-You can find my CV here: 杨力's Curriculum Vitae.
+You can find my CV here: Li Yang's Curriculum Vitae.
 
 Email / Github / Wechat / CSDN
